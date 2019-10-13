@@ -8,7 +8,36 @@ The pdf files named _submissions_ (with or without a progressive number) are the
 * _submissions4.pdf_ contains Finding the percentage, Nested Lists, Find the Runner-Up Score!, List Comprehensions, Print Function, Write a function, Loops
 * _submissions5.pdf_ contains Python: Divisions, Arithmetic Operators, Python If-Else, Say "Hello, World!" With Python
 
-## Contents of Markdown file *scripts_part2.md*
+## Contents of Markdown file *scripts_problem1.md*
+It's the Jupyter Notebook with all the scripts of the challenges requested in _Problem 1_:
+* Hello, World!
+* Python If-Else
+* Arithmetic Operator
+* Python Division
+* Loops
+* Write a Function
+* Print Function
+* List Comprehension
+* Find the Runner-Up Score
+* Nested Lists
+* Finding the Percentage
+* Lists
+* Tuples
+* What's Your Name
+* sWAP cASE
+* String Split and Join
+* Python Mutations
+* String Validators
+* Text Alignment
+* Text Wrap
+* Designer Door Mat
+* Introduction to Sets
+* Alphabet Rangoli
+* Capitalize!
+* Map and Lambda Function
+* ginortS
+
+## Contents of Markdown file *scripts_problem2.md*
 It's the Jupyter Notebook with all the scripts of the challenges requested in _Problem 2_:
 * Birthday Cake Candles
 * Kangaroo

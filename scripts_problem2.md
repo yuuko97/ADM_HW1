@@ -1,5 +1,5 @@
 
-# ADM Homework 1 Part 2
+# ADM Homework 1 Problem 2
 
 ## Birthday Cake Candles
 Input: 'ar', an array whose elements represents the heights (integers) of some candles, in quantity 'n', an integer taken as input from keyboard in main.

@@ -1,4 +1,4 @@
-# HW_1
+# ADM_HW1
 
 The pdf files named _submissions_ (with or without a progressive number) are the printouts from the page with all my submissions on HackerRank.
 * _submissions.pdf_ contains ginortS, Map and Lambda functions, Insertion Sort - Part 2, Insertion Sort - Part 1, Recursive Digit Sum, Viral Advertising

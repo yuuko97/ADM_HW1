@@ -1,5 +1,5 @@
 
-# ADM Homework 1 Part 1
+# ADM Homework 1 Problem 1
 
 ## Hello, World!
 Output: Hello, World!
